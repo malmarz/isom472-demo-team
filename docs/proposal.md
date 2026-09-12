@@ -10,8 +10,9 @@ you have already used. Two or three lines.*
 
 ## 2. What happens today, and what goes wrong
 
-*The current process as it is really done, and the specific point where it fails. One short
-paragraph, concrete, no adjectives.*
+Orders arrive by phone and on WhatsApp. Nobody writes them into one place, so the
+same customer is sometimes billed twice in a month, and about four orders a week
+are lost between the phone and the kitchen.
 
 ## 3. Who is better off, and how you would know
 
